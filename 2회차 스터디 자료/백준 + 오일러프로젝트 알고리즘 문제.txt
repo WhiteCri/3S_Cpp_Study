@@ -1,4 +1,5 @@
 https://www.acmicpc.net/problem/1002
-https://www.acmicpc.net/problem/5354 (스택 맛보기 문제)
-https://www.acmicpc.net/problem/9996 
+https://www.acmicpc.net/problem/5354 
+https://www.acmicpc.net/problem/9996
+https://www.acmicpc.net/problem/9012 
 ★http://euler.synap.co.kr/prob_detail.php?id=5

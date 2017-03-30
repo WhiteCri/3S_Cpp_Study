@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <assert.h>
+
 int readFile(char (*str)[]) {////////////
 	static FILE *fp2 = fopen("c:\\data\\rockyou.txt", "r");
 	assert(fp2!=NULL);
