@@ -13,6 +13,3 @@ http://soranohana.ga/acmicpc/
 
 1003
 8393
-10998
-10430
-10869
